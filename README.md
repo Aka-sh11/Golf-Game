@@ -4,5 +4,6 @@
 
 
 
-## Output ScreenShot:
+## Output:
 ![](img/output-gif.gif)
+![](img/output.png)
